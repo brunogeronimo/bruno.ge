@@ -1,7 +1,7 @@
 ---
 title: "Hey!"
 date: 2020-10-04T18:57:01+02:00
-draft: true
+draft: false
 url: hey
 authors: [Bruno Geronimo]
 Summary: "Welcome to my new blog."

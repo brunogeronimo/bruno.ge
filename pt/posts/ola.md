@@ -1,7 +1,7 @@
 ---
 title: "Oi!"
 date: 2020-10-04T18:57:01+02:00
-draft: true
+draft: false
 authors: [Bruno Geronimo]
 summary: "Seja bem-vindo ao meu blog."
 ---
