@@ -4,7 +4,7 @@ date: 2020-10-04T18:57:01+02:00
 draft: false
 url: hey
 authors: [Bruno Geronimo]
-Summary: "Welcome to my new blog."
+summary: "Welcome to my new blog."
 ---
 
 # Hey! :)
