@@ -4,7 +4,7 @@ date: 2020-10-06T12:05:52+02:00
 summary: Let's learn a little bit about Terraform.
 authors: [Bruno Geronimo]
 reviewers: [Birgit Pohl, Carolina Robles, Eric Dallo, Ramon Andrade]
-draft: true
+draft: false
 ---
 
 When you opt-in for cloud computing, there are several ways to organize your infrastructure. You can simply create things on demand through the control panel of your cloud provider or, in some cases, create your own scripts to trigger cloud APIs. Options are endless. It depends on creativity, use-case and needs.
