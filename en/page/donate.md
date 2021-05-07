@@ -1,7 +1,7 @@
 ---
 title: "Donate"
 date: 2021-05-06T22:48:58+02:00
-draft: true
+draft: false
 authors: [Bruno Geronimo]
 ---
 Hey!
