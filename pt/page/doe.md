@@ -19,6 +19,3 @@ Hoje eu aceito doações pelos seguintes meios:
 
 * Paypal: https://paypal.me/brunogeronimo
 * GitHub Sponsors: https://github.com/sponsors/brunogeronimo
-* Bitcoin: `bc1qfcs50y0twpk5nq00ult49f3qmk4540sn45anzl`
-* Ethereum: `0x4Dfc190fC62bf8FB75f89EbF08288BC6280599a7`
-* Monero: `873CH36bineS7S3We1f2uYdBBFcki5zjaEHFqVnbKEpm3uwaNtZJbehVynhSNKx7Yq9JP9pHGKYkA4X9Ri339kVLEJVdHk2`
