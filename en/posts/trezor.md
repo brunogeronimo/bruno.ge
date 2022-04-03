@@ -44,11 +44,11 @@ trezor.io/web/.
 With these suspitions in mind, I decided to check the registration date of these domains, which 
 is also a bit odd:
 
-| Domain                                             | Creation date               |
-|----------------------------------------------------|-----------------------------|
-| xn--trzor-o51b.com (trẹzor.com) - Página principal | 27.03.2022 - 11:09:17 (UTC) |
-| trezorwallet.org - Página do webclient             | 27.03.2022 - 07:03:32 (UTC) |
-| trezor.us - Domínio do remetente do golpe          | 09.07.2021 - 00:01:19 (UTC) |
+| Domain                                      | Creation date               |
+|---------------------------------------------|-----------------------------|
+| xn--trzor-o51b.com (trẹzor.com) - Main page | 27.03.2022 - 11:09:17 (UTC) |
+| trezorwallet.org - Webclient                | 27.03.2022 - 07:03:32 (UTC) |
+| trezor.us - Domain from the scam e-mail     | 09.07.2021 - 00:01:19 (UTC) |
 
 Trezor is an existing company since 2013. Having such brand-new domains is also a scam indication.
 
