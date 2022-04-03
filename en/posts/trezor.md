@@ -69,3 +69,8 @@ about the pottential data leak from MailChimp.
 I reported the incident to all companies involved on the domain registration by checking their 
 WHOIS, to the [Internet Crime Complaint Center](https://www.ic3.gov/) and to the 
 [Internet Beschwerdestelle](https://www.internet-beschwerdestelle.de/en/index.html).
+
+# Updates
+
+* Trezor has confirmed on [Twitter](https://twitter.com/Trezor/status/1510558771944333312) the 
+data leak on MailChimp's side.

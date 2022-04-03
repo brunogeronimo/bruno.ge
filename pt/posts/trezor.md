@@ -71,3 +71,8 @@ Eu reportei o incidente para todas as empresas envolvidas no registro dos domín
 WHOIS, para o 
 [Internet Crime Complaint Center](https://www.ic3.gov/) e para o 
 [Internet Beschwerdestelle](https://www.internet-beschwerdestelle.de/en/index.html).
+
+# Atualizações
+
+* Trezor confirmou em seu [Twitter](https://twitter.com/Trezor/status/1510558771944333312) que 
+  houve um vazamento de dados por parte de MailChimp.
