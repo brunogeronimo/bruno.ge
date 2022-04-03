@@ -6,8 +6,6 @@ authors: [Bruno Geronimo]
 summary: "Did you get an e-mail saying you were victim of a data leak? It's a fake one, 
 and I'm gonna explain why."
 ---
-# Trezor - Fake e-mail analysis
-
 I woke up with an unexpected e-mail today:
 
 {{< cdn src="trezor/email.jpg" alt="E-mail falso" >}}

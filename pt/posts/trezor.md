@@ -6,8 +6,6 @@ authors: [Bruno Geronimo]
 summary: "Recebeu um e-mail dizendo que você foi vítima de um vazamento? O e-mail é falso, e 
 aqui eu explido por quê."
 ---
-# Trezor - Análise de e-mail falso
-
 Hoje eu acordei com um e-mail inusitado:
 
 {{< cdn src="trezor/email.jpg" alt="E-mail falso" >}}
