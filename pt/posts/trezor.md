@@ -76,3 +76,5 @@ WHOIS, para o
 
 * Trezor confirmou em seu [Twitter](https://twitter.com/Trezor/status/1510558771944333312) que 
   houve um vazamento de dados por parte de MailChimp.
+* Os domínios trezor.us e xn--trzor-o51b.com (trẹzor.com) foram derrubados 
+  ([fonte](https://twitter.com/Trezor/status/1510602645572050949)).

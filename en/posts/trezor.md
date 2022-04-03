@@ -73,4 +73,6 @@ WHOIS, to the [Internet Crime Complaint Center](https://www.ic3.gov/) and to the
 # Updates
 
 * Trezor has confirmed on [Twitter](https://twitter.com/Trezor/status/1510558771944333312) the 
-data leak on MailChimp's side.
+  data leak on MailChimp's side.
+* The domains trezor.us e xn--trzor-o51b.com (trẹzor.com) were taken down
+  ([source](https://twitter.com/Trezor/status/1510602645572050949)).
