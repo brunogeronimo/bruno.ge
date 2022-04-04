@@ -3,21 +3,26 @@ title: "Trezor - Fake e-mail analysis"
 date: 2022-04-02T11:30:00+02:00
 draft: false
 authors: [Bruno Geronimo]
+reviewers: [Giullia Cristiny]
 summary: "Did you get an e-mail saying you were victim of a data leak? It's a fake one, 
 and I'm gonna explain why."
 ---
-I woke up with an unexpected e-mail today:
+For those who don't know, I invest in some criptocurrencies, and I decided to buy a hard wallet
+from [Trezor](https://trezor.io). Today, I woke up with an unexpected e-mail which apparently 
+was sent by them:
 
 {{< cdn src="trezor/email.jpg" alt="E-mail falso" >}}
 
-Generally, I always delete these kinds of e-mails, specially when the content is very "alarming".
+I usually tend to always delete "alarming" e-mail messages, but some flags led be to believe on 
+it when I read the message.
 
-For those who don't know, I invest in some criptocurrencies, and I decided to buy a hard wallet 
-from [Trezor](https://trezor.io). I have a habit to create accounts using e-mail aliases. 
-Instead of using hi@bruno.ge, I use hi+specificword@bruno.ge when creating an account. In most 
-cases, it works.
+I have a habit to create accounts using e-mail aliases. An e-mail alias is nothing more than a 
+keyword we can use on e-mail addresses. Instead of using hi@bruno.ge in every site, I use 
+hi+ebay@bruno.ge, for example. That is very useful for security, but I'll get into why in a 
+different article.
 
-However, what led me to believe this e-mail was the fact I received it **with** the alias.
+However, what led me to believe this e-mail was the fact I received it **with** the alias, and 
+in this case, a specific alias I only use in that service.
 
 When I opened the URL, I got redirected to the following page:
 
@@ -76,3 +81,4 @@ WHOIS, to the [Internet Crime Complaint Center](https://www.ic3.gov/) and to the
   data leak on MailChimp's side.
 * The domains trezor.us e xn--trzor-o51b.com (trẹzor.com) were taken down
   ([source](https://twitter.com/Trezor/status/1510602645572050949)).
+* After getting feedback, some paragraphs were rewritten to improve reading experience.

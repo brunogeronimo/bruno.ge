@@ -3,20 +3,26 @@ title: "Trezor - Análise de e-mail falso"
 date: 2022-04-02T11:30:00+02:00
 draft: false
 authors: [Bruno Geronimo]
+reviewers: [Giullia Cristiny]
 summary: "Recebeu um e-mail dizendo que você foi vítima de um vazamento? O e-mail é falso, e 
-aqui eu explido por quê."
+aqui eu explico por quê."
 ---
-Hoje eu acordei com um e-mail inusitado:
+Pra quem não sabe, eu invisto em algumas criptomoedas, e decidi comprar uma hard wallet da
+[Trezor](https://trezor.io). Hoje eu acordei com um e-mail inusitado que aparentemente foi 
+enviado por eles:
 
 {{< cdn src="trezor/email.jpg" alt="E-mail falso" >}}
 
-Em geral eu sempre deleto esse tipo de e-mail, principalmente pela mensagem ser bem "alasmista".
-Porém, o que me fez levar esse e-mail a sério foi ter recebido o e-mail da Trezor **com** o alias.
+Eu costumo sempre deletar e-mails com conteúdo muito "alarmista", mas alguns pontos me levaram a 
+me assustar e a acreditar nesse e-mail quando o li.
 
-Pra quem não sabe, eu invisto em algumas criptomoedas, e decidi comprar uma hard wallet da 
-[Trezor](https://trezor.io). Eu criei o hábito de cadastrar e-mails com aliases em sites. Ao 
-invés de usar oi@bruno.ge, eu uso oi+palavraespecifica@bruno.ge na hora de criar uma conta. Na 
-maioria dos casos, isso funciona.
+Eu criei o hábito de cadastrar e-mails com aliases em sites. Um alias nada mais é do que um apelido
+que podemos usar no e-mail. Ao invés de utilizar oi@bruno.ge em todos os sites, eu uso
+oi+americanas@bruno.ge, por exemplo. Isso é bem útil pra segurança, mas entrarei em mais detalhes
+sobre o motivo em outro artigo.
+
+O que me fez levar esse e-mail a sério foi ter recebido o e-mail da Trezor **com** o 
+alias, e nesse caso específico um alias que eu só utilizo neste serviço.
 
 Quando eu abri o link, fui redirecionado para a seguinte página:
 
@@ -78,3 +84,4 @@ WHOIS, para o
   houve um vazamento de dados por parte de MailChimp.
 * Os domínios trezor.us e xn--trzor-o51b.com (trẹzor.com) foram derrubados 
   ([fonte](https://twitter.com/Trezor/status/1510602645572050949)).
+* Após receber feedback, alguns parágrafos foram reescritos para melhorar a leitura.
