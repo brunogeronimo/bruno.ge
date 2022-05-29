@@ -79,8 +79,8 @@ processo de emissão de visto.
 Existem vários tipos de visto de trabalho na Alemanha que cobrem diferentes cenários. Desde temporários, 
 como o [ICT card](https://www.make-it-in-germany.com/en/looking-for-foreign-professionals/entering/admission-labour-market/ict-card), 
 a permanentes, como o [Visto de Trabalho (Work Visa)][work_visa] e o [Cartão Azul UE (EU Blue Card)][blue_card]. 
-Existe também um visto focado em especialistas em TI, mas eu ainda não sei nada a respeito, 
-então não vou abordá-lo neste artigo.
+Existe também um visto focado em [especialistas em TI](https://www.make-it-in-germany.com/en/visa-residence/types/other/it-specialists), 
+mas eu ainda não sei nada a respeito, então não vou abordá-lo neste artigo.
 
 ## Visto de Trabalho (Work Visa)
 Fonte: [Make it in Germany - Work visa for qualified professionals][work_visa]
