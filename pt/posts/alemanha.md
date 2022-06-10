@@ -8,6 +8,8 @@ translators: []
 summary: Um pouco sobre o meu processo de imigração para a Alemanha
 ---
 
+Também disponível em: [.epub](https://assets.bruno.ge/posts/alemanha.epub), [.mobi](https://assets.bruno.ge/posts/alemanha.mobi)
+
 Desde que me mudei para Berlim, é muito comum as pessoas perguntarem sobre o meu processo de 
 imigração. As perguntas variam entre como achar emprego, o processo de visto, o quão difícil é se 
 adaptar etc.
