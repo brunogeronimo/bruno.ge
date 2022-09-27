@@ -36,7 +36,7 @@ parar num site russo que vende belíssimos cofres:
 Repararam algo de estranho na URL? O link que eu fui redirecionado é, na verdade, suite.trẹzor.
 com, com *ẹ*, não *e*. O domínio fica um pouquinho diferente neste caso:
 
-{{< cdn src="trezor/converted-domain.png" alt="Domínio comvertido" >}}
+{{< cdn src="trezor/converted-domain.png" alt="Domínio convertido" >}}
 
 Esse golpe é conhecido como [IDN homograph attack](https://en.wikipedia.org/wiki/IDN_homograph_attack).
 Tratam-se de domínios que são muito semelhantes ao original, porém usando caracteres de 
