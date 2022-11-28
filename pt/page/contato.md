@@ -8,4 +8,5 @@ Você pode me achar nos links abaixo:
 
 * Twitter: [@BrunoGeronimo](https://twitter.com/BrunoGeronimo)
 * Telegram: [@brunogeronimo](https://t.me/brunogeronimo)
-* E-mail: [hi@bruno.works](mailto:hi@bruno.works) [(🔐)](https://bru.ge/key)
+* E-mail: [hi@bruno.works](mailto:hi@bruno.works)
+* E-mail com criptografia: [hi@bruno.ge](mailto:hi@bruno.ge)[(🔐)](https://bru.ge/key)
