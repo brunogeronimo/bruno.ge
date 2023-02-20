@@ -6,7 +6,8 @@ authors: [Bruno Geronimo]
 ---
 Você pode me achar nos links abaixo:
 
-* Twitter: [@BrunoGeronimo](https://twitter.com/BrunoGeronimo)
+* Mastodon: [@brunogeronimo@mastodon.social](https://mastodon.social/@brunogeronimo)
 * Telegram: [@brunogeronimo](https://t.me/brunogeronimo)
 * E-mail: [hi@bruno.works](mailto:hi@bruno.works)
 * E-mail com criptografia: [hi@bruno.ge](mailto:hi@bruno.ge)[(🔐)](https://bru.ge/key)
+* Twitter: [@BrunoGeronimo](https://twitter.com/BrunoGeronimo)
