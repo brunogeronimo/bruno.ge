@@ -50,10 +50,9 @@ Existem várias opções no mercado. Algumas gratuítas, soluções de código a
 
 ### Por onde começar
 
-Aqui cito algumas sugestões de gerenciadores de senhas, sendo que os quatro primeiros oferecem armazenamento **gratuito** ilimitado de credenciais:
+Aqui cito algumas sugestões de gerenciadores de senhas, sendo que os três primeiros oferecem armazenamento **gratuito** ilimitado de credenciais:
 
 * Bitwarden: https://bitwarden.com/
-* LastPass: https://www.lastpass.com
 * NordPass: https://nordpass.com
 * Apple Keychain: https://support.apple.com/en-us/HT204085 (só recomendo caso você tenha iPhone e MacBook)
 * 1Password: https://1password.com/
