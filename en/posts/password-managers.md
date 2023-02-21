@@ -46,10 +46,9 @@ There are several options available. Some of them are free, open-source, self-ho
 
 ### Where to start
 
-I'll give you a list of password managers, and the first **four** allow you to store as many credentials as needed, free of charge:
+I'll give you a list of password managers, and the first **three** allow you to store as many credentials as needed, free of charge:
 
 - Bitwarden: [https://bitwarden.com/](https://bitwarden.com/)
-- LastPass: [https://www.lastpass.com](https://www.lastpass.com)
 - NordPass: [https://nordpass.com](https://nordpass.com)
 - Apple Keychain: [https://support.apple.com/en-us/HT204085](https://support.apple.com/en-us/HT204085) (I would only recommend it if you have a MacBook **and** an iPhone)
 - 1Password: [https://1password.com/](https://1password.com/)
