@@ -39,6 +39,13 @@ group by ANO_ELEICAO, nr_votavel
 order by somatoria desc;
 ```
 
+Além disso, para deixar as pesquisas mais rápidas, eu criei os seguintes índices em cada tabela:
+````sql
+create index cargo on votacao_secao_<ano>(ds_cargo);
+create index votavel on votacao_secao_<ano>(nr_votavel);
+create index turno on votacao_secao_<ano>(nr_turno);
+````
+
 ### 2010 - Dilma vs Serra (2º Turno)
 Fonte: https://g1.globo.com/especiais/eleicoes-2010/noticia/2010/11/tse-conclui-apuracao-dos-votos-do-segundo-turno.html
 
@@ -96,11 +103,32 @@ Valores do banco de dados:
 
 Como vimos acima, todos os CSVs conferem com os dados de apuração das urnas.
 
+## Respondendo perguntas
 
+### Será que existem urnas com votos APENAS em Bolsonaro e zero votos em Lula no segundo turno?
 
+Sim, existem.
 
+Para responder esta pergunta, eu executei a seguinte query:
+
+```sql
+select * from votacao_secao_<ano> vs where
+    NR_TURNO = 2
+    and ds_cargo = "PRESIDENTE"
+    and nr_votavel = 22
+    and (
+      select count(*) from votacao_secao_<ano> vs2 where
+        vs2.NR_TURNO = 2
+        and vs2.ds_cargo = "PRESIDENTE"
+        and vs2.nr_votavel = 13
+        and vs.CD_MUNICIPIO = vs2.CD_MUNICIPIO
+        and vs.NR_ZONA = vs2.NR_ZONA
+        and vs.NR_SECAO = vs2.NR_SECAO
+    ) = 0
+order by sg_uf;
+```
+
+A idéia é primeiro selecionar todas as urnas com votos em Bolsonaro, e selecionar **apenas** as que tem zero votos em Lula.
 
 [tweet]: <https://twitter.com/BrunoGeronimo/status/1589220721280323588>
 [dados_abertos]: <https://dadosabertos.tse.jus.br/>
-[apuracao_2010]: <https://g1.globo.com/especiais/eleicoes-2010/noticia/2010/11/tse-conclui-apuracao-dos-votos-do-segundo-turno.html>
-
