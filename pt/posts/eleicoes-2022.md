@@ -32,9 +32,9 @@ para verificar os dados:
 
 ```sql
 select ANO_ELEICAO, NR_VOTAVEL, sum(qt_votos) as somatoria
-from votacao_secao_2014
+from votacao_secao_<ano>
 where NR_TURNO = 2
-  and NR_VOTAVEL in (<número dos partidos no segundo turno>)
+  and NR_VOTAVEL in (<número dos partidos do segundo turno>)
 group by ANO_ELEICAO, nr_votavel
 order by somatoria desc;
 ```
